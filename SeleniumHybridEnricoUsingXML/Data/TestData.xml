@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="TestingSuite">
+<test name="addContactTest">
+
+<parameter name="email" value="techfiosdemo@gmail.com"/>
+<parameter name="password" value="abc123"/>
+<parameter name="Name" value="Sunita"/>
+<parameter name="Company" value="Samsung"/>
+<parameter name="Email" value="bglsunita@gmail.com"/>
+<parameter name="Phone" value="4692315895"/>
+<parameter name="Address" value="1401 bell ranch"/>
+<parameter name="City" value="Euless"/>
+<parameter name="State" value="Texas"/>
+<parameter name="Zip" value="76040"/>
+
+<classes>
+<class name="test.AddContactTest"/>
+</classes>
+
+</test>
+</suite>

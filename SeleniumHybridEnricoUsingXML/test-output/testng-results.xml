@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-07-29T18:48:07Z" name="TestingSuite" finished-at="2019-07-29T18:48:38Z" duration-ms="30587">
+    <groups>
+    </groups>
+    <test started-at="2019-07-29T18:48:07Z" name="addContactTest" finished-at="2019-07-29T18:48:38Z" duration-ms="30587">
+      <class name="test.AddContactTest">
+        <test-method signature="addContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.AddContactTest@b62fe6d]" started-at="2019-07-29T13:48:08Z" name="addContactTest" finished-at="2019-07-29T13:48:38Z" duration-ms="30552" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[techfiosdemo@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sunita]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[bglsunita@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[4692315895]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1401 bell ranch]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Euless]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Texas]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[76040]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContactTest -->
+      </class> <!-- test.AddContactTest -->
+    </test> <!-- addContactTest -->
+  </suite> <!-- TestingSuite -->
+</testng-results>
